@@ -1,0 +1,74 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Abel&family=Anton&family=Gabarito&family=Homenaje&family=Josefin+Sans:wght@200;300&family=Lato&family=Lexend&family=Libre+Franklin:wght@500&family=Mohave:ital,wght@1,500&family=Oswald:wght@300&family=Outfit&family=Poppins:wght@300;400&family=Prompt:wght@300&family=Public+Sans&family=Teko:wght@300&family=Work+Sans&family=Young+Serif&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Abel&family=Anton&family=Bebas+Neue&family=Black+Ops+One&family=Gabarito&family=Homenaje&family=Josefin+Sans:wght@200;300&family=Jost&family=Lato&family=Lexend&family=Libre+Franklin:wght@500&family=Mohave:ital,wght@1,500&family=Oswald:wght@300&family=Outfit&family=Permanent+Marker&family=Poppins:wght@300;400&family=Prompt:wght@300&family=Public+Sans&family=Satisfy&family=Teko:wght@300&family=Work+Sans&family=Young+Serif&display=swap');
+#container{
+    display: flex;
+    margin-left: 180px;
+}
+
+#nav{
+    display: flex;
+    font-size: 20px;
+    height: 100px;
+    margin-left: -130px;
+
+    }
+
+
+.fa-regular{
+    margin-top: 30px;
+    font-size: 40px;
+    color: pink;
+    margin-right: 10px;
+}
+
+.title{
+    width: 40%;
+    height: 100px;
+    margin-right: -300px;
+    font-size: 20px;
+    margin-top: 25px;
+    font-weight: bolder;
+   
+}
+
+.heading{
+    font-size: 70px;
+    margin-top: 170px;
+    /* font-family: 'Abel', sans-serif; */
+    
+    margin-bottom: 20px;
+}
+
+.we{
+    font-family: 'Abel', sans-serif;
+    color: #AA336A;
+}
+
+.sub{
+    width: 59%;
+    font-size: 18px;
+    font-family: 'Satisfy', cursive;
+    color: #AA336A;
+}
+
+input{
+    width: 60%;
+    padding: 20px;
+    border: 1px solid #9DA4AD;
+    border-radius: 30px;
+
+}
+
+img{
+    width: 630px;
+    height: 97vh;
+    /* position: relative;
+    top: 10%;
+    left: 50%;
+    /* transform: translate(-50% -50%); */
+} 
+
+
+    
